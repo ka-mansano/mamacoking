@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title>
+        Mamaco King.
+    </title>
+    <link href="mamac01.css" rel="stylesheet" type="text/css">
+  </head>
+    <body>
+        <h1>Bem vindo ao site da melhor e maior papelaria de Lácio!</h1></br>
+        <img src="../maxresdefault.jpg" style="height: 440px;"></br>
+        <p><h2><a href = "mamacologin.html" target="_blank">Faça aqui o seu cadastro em nosso site!</a></h2></p>
+        <p><h2><a href = "mamacoking.html" target="_blank">Clique aqui para ver nossas IMPERDÍVEIS promoções!!!!</a></h2></p>
+    </body>
+</html>
