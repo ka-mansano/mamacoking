@@ -1,0 +1,5 @@
+html{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center; vertical-align: middle;
+    background-image: url("../ffun.jpg");
+    background-size: cover;}
