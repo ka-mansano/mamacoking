@@ -1,14 +1,11 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-  <title>
-        Promoções!
-    </title>
     <link href="mamaco.css" rel="stylesheet" type="text/css">
   </head>
       <body>
         <h1> <caption>BLACK FRAUDE DO GERENTE!!!!!!</caption> </h1>
-      <div><table>
+      <table align="center">
         <th colspan="5";>Preços Promocionais da Mamaco King</th></tr>
         <tr><td><b> Foto do Ítem </td>
         <td><b>Nome do Ítem</td>
@@ -16,37 +13,37 @@
         <td><b> Preço Normal </td>
         <td><b> Preço com Desconto</td></tr>
         
-        <tr><td> <img src="../estojo.jfif"> </td>
+        <tr><td> <img src="https://cdn.awsli.com.br/600x700/765/765263/produto/123721995/c53bf9ee6a.jpg"> </td>
         <td>Estojo</td>
         <td> 34 </td>
         <td> R$ 50,00 </td>
         <td> R$ 49,99 </td></tr>
         
-        <tr><td> <img src="../caneta.webp"> </td>
+        <tr><td> <img src="https://papelariacriativa.com.br/wp-content/uploads/caneta-esferogrfica-compactor-economic-azul-1.0-1.jpg"> </td>
         <td>Caneta</td>
         <td> 87 </td>
         <td> R$ 5,00 </td>
         <td> R$ 4,99 </td></tr>
         
-        <tr><td> <img src="../borracha.jfif"> </td>
+        <tr><td> <img src="https://images.tcdn.com.br/img/img_prod/785722/borracha_faber_castell_verde_latex_para_desenho_6268_2_20200910103558.jpg"> </td>
         <td>Borracha</td>
         <td> 278 </td>
         <td> R$ 2,00 </td>
         <td> R$ 1,99 </td></tr>
         
-        <tr><td> <img src="../lapis.avif"> </td>
+        <tr><td> <img src="https://img.freepik.com/vetores-gratis/design-do-lapis-da-escrita_1095-187.jpg?w=2000"> </td>
         <td>Lapis</td>
         <td> 76 </td>
         <td> R$ 1,00 </td>
         <td> R$ 0,99 </td></tr>
         
-        <tr><td> <img src="../apontador.jfif"> </td>
+        <tr><td> <img src="https://a-static.mlcdn.com.br/800x560/apontador-sem-caixa-laminfort/oficinadasimpressoras/ce7d2b5aaa0611ea8e1d4201ac18501e/4d0db69145fcfc4fd92db3d935b55af1.jpeg"> </td>
         <td>Apontador</td>
         <td> 13 </td>
         <td> R$ 10,00</td>
         <td> R$ 9,99 </td></tr>
                 
-      </table></div>
+      </table>
       
   </body>
 </html>
