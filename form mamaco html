@@ -6,36 +6,79 @@
     <link href="mamacologin.css" rel="stylesheet" type="text/css">
   </head>
     <body>
-        <form>
-            <legend>Fruit juice size</legend>
-              <p>
-                <input type="radio" name="size" id="size_1" value="small" />
-                <label for="size_1">Small</label>
-              </p>
-              <p>
-                <input type="radio" name="size" id="size_2" value="medium" />
-                <label for="size_2">Medium</label>
-              </p>
-              <p>
-                <input type="radio" name="size" id="size_3" value="large" />
-                <label for="size_3">Large</label>
-              </p>
-          </form>
-
-          <label for="name">Name:</label> <input type="text" id="name" name="user_name">
-
-          <form>
-          <p>
-            <label for="taste_1">I like cherry</label>
-            <input type="checkbox" id="taste_1" name="taste_cherry" value="1">
-          </p>
-          <p>
-            <label for="taste_2">I like banana</label>
-            <input type="checkbox" id="taste_2" name="taste_banana" value="2">
-          </p>
-        </form>
-
-
-          
+      <form>
+          <div class="nome">
+              <label for="name">Nome Completo:</label>
+              <input type="text" id="name" />
+          </div>
+          <br/>
+          <div class="email">
+              <label for="mail">E-mail:</label>
+              <input type="email" id="mail" />
+          </div>
+          <br/>
+          <div class="nascimento">
+              <label for="nascimento">Data de Nascimento:</label>
+              <input type="date" id="date" name="expiration">
+          </div>
+          <br/>
+          <div class="cpf">
+            <label for="msg">CPF:</label>
+              <textarea id="msg"></textarea>
+          </div>
+          <br/>
+          <div class="endereço">
+            <label for="endereço">Endereço:</label>
+             <input type="text" id="endereço" />
+          </div>
+          <br/>
+          <div class="cidade">
+            <label for="cidade">Cidade:</label>
+              <input type="text" id="cidade" />
+          </div>
+          <br/>
+          <div class="estado">
+            <label for="estado">Estado:</label>
+              <select class="form-control" id="exampleFormControlSelect1">
+                <option>Acre</option>
+                <option>Alagoas</option>
+                <option>Amapá</option>
+                <option>Amazonas</option>
+                <option>Bahia</option>
+                <option>Ceará</option>
+                <option>Espírito Santo</option>
+                <option>Goiás</option>
+                <option>Maranhão</option>
+                <option>Mato Grosso</option>
+                <option>Mato Grosso do Sul</option>
+                <option>Minas Gerais</option>
+                <option>Pará</option>
+                <option>Paraíba</option>
+                <option>Paraná</option>
+                <option>Pernambuco</option>
+                <option>Piauí</option>
+                <option>Rio de Janeiro</option>
+                <option>Rio Grande do Norte</option>
+                <option>Rio Grande do Sul</option>
+                <option>Rondônia</option>
+                <option>Roraima</option>
+                <option>Santa Catarina</option>
+                <option>São Paulo</option>
+                <option>Sergipe</option>
+                <option>Acre</option>
+                <option>Tocantins</option>
+                <option>Distrito Federal</option>
+              </select>
+          </div>
+          <br/>
+          <div class="senha">
+            <label for="senha">Senha:</label>
+              <input type="password" name="senha" placeholder="Digite sua Senha">
+          </div>
+          <br/>
+          <div class="button">
+              <button type="submit">Finalizar cadastro!</button>
+          </div> 
+      </form>
     </body>
 </html>
