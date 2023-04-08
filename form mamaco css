@@ -1,11 +1,30 @@
+@charset "UTF-8";
+
 html{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center; vertical-align: middle;
+    font-size: 22px;
+    color:orangered;
+    text-align: center;
     background-image: url("../geladeira.jpg");
     background-size: cover;
-background-image: hover {opacity: 0.5;};
-
-
-
-
+}
+form {
+    padding: 5% ;
+    border: 29px solid #77df3c;
+    border-radius: 1000em;
+    color:orangered;
+}
+input{
+    font-size: 22px;
+    color:orangered;
+}
+select{
+    text-align: center;
+    font-size: 22px;
+    color:orangered;
+}
+button {
+    font-size: 22px;
+    text-align: center;
+    color:orangered;
 }
