@@ -3,28 +3,28 @@
 html{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 22px;
-    color:orangered;
+    color:rgb(37, 247, 65);
     text-align: center;
-    background-image: url("../geladeira.jpg");
+    background-image: url("https://uploads.onsize.com.br/cndl/varejosa/2021/06/10093629/school-tools-3596680_1280-1140x694.jpg");
     background-size: cover;
 }
 form {
     padding: 5% ;
     border: 29px solid #77df3c;
     border-radius: 1000em;
-    color:orangered;
+    color:rgb(37, 247, 65);
 }
 input{
     font-size: 22px;
-    color:orangered;
+    color:rgb(37, 247, 65);
 }
 select{
     text-align: center;
     font-size: 22px;
-    color:orangered;
+    color:rgb(22, 116, 76);
 }
 button {
     font-size: 22px;
     text-align: center;
-    color:orangered;
+    color:rgb(22, 116, 76);
 }
