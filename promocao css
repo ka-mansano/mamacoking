@@ -1,12 +1,16 @@
 html{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center; vertical-align: middle;
-    background-image: url("../fund.jpg");
+    background-image: url("https://img.freepik.com/fotos-gratis/postura-plana-de-volta-aos-artigos-de-papelaria-da-escola-com-lapis-coloridos-e-espaco-de-copia_23-2148587523.jpg");
     background-size: cover;}
   
   table{
     border:2px solid rgb(55, 71, 69);
-    text-align: center; vertical-align: middle;}
+    text-align: center;
+    vertical-align: middle;
+    border-spacing:2mm;
+    border;
+  }
 
   td img {
     max-height: 70px;
